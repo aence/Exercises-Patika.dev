@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 14 19:39:59 2022
 
-@author: aenna
-"""
 flatten_list = []
 
 def flattener(thelist,container):
